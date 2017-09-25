@@ -1,6 +1,7 @@
 # StarBarView
->显示星星评论数控件
-><www.ycode.xiaowu.com.starbarview.StarBarView
+## 显示星星评论数控件
+```
+<www.ycode.xiaowu.com.starbarview.StarBarView
         >android:layout_marginLeft="22dp"
         >android:layout_marginTop="22dp"
         >android:id="@+id/rating_bar2"
@@ -24,3 +25,4 @@
         >app:star_solid="@mipmap/rb_yellow"
 		>  <!--星星间宽度-->
         >app:star_width="24dp"></www.ycode.xiaowu.com.starbarview.StarBarView>
+```
