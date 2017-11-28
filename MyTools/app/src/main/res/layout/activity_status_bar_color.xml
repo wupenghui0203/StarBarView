@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#9FD661"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/white"
+        android:text="白色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/black"
+        android:text="黑色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/green"
+        android:text="绿色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/red"
+        android:text="红色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/blue"
+        android:text="蓝色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/orange"
+        android:text="橘色"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/style1"
+        android:text="设置状态栏黑色字体与图标(支持 4.4 以上版本 MIUI 和 Flyme，以及 6.0 以上版本的其他 Android)"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/style2"
+        android:text="设置状态栏白色字体与图标(支持 4.4 以上版本 MIUI 和 Flyme，以及 6.0 以上版本的其他 Android)"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="44dp" />
+</LinearLayout>

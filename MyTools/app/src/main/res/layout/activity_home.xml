@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/star_bar_view"
+        android:text="StarBarView"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/status_bar_colors"
+        android:text="setStatusBarColor(设置状态栏的颜色)"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:layout_height="44dp" />
+    <TextView
+        android:id="@+id/look_big_image"
+        android:text="LookBigImage"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:layout_height="44dp" />
+</LinearLayout>
