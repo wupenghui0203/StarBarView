@@ -31,7 +31,7 @@ public class StarBarView extends View {
     private int starMaxNumber;
     private float starRating;
     private Paint paint;
-    private int mSpaceWidth;//星星间隔
+    private int mSpaceWidth;//星星间隔我的
     private int mStarWidth;//星星宽度第五位 的玩儿
     private int mStarHeight;//星星高度
     private boolean isIndicator;//是否是一个指示器（用我的户无法进行更改）33
